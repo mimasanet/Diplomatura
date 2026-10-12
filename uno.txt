@@ -1,1 +1,1 @@
-El primer archivo será la prueba
+El primer archivo será la prueba de git
